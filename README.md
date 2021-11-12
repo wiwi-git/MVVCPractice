@@ -4,9 +4,9 @@ World Time API :
   http://worldtimeapi.org/api/timezone/Asia/Seoul
   <br/>
   EX)<br/>
-    # curl "http://worldtimeapi.org/api/timezone/Asia/Seoul"<br/>
-    {<br/>
-      "abbreviation": "KST",<br/>
+     # curl "http://worldtimeapi.org/api/timezone/Asia/Seoul"<br/>
+     {<br/>
+       "abbreviation": "KST",<br/>
       "client_ip": "106.245.90.246",<br/>
       "datetime": "2021-11-12T19:49:54.069054+09:00",<br/>
       "day_of_week": 5,<br/>
